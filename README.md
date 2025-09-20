@@ -41,7 +41,7 @@ User Query → Retrieval → Context + Query → Ollama LLM → Response
 
 1. **Clone & Setup**
    ```bash
-   git clone <your-repo-url>
+   git clone [<your-repo-url>](https://github.com/RimeAabil/RAG-chatbot)
    cd document-qa-chatbot
    pip install -r requirements.txt
    ```
